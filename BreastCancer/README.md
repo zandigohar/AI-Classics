@@ -1,5 +1,7 @@
 MACHINE LEARNING METHODS IN CANCER DIAGNOSIS AND PROGNOSIS
+
 {Breast cancer classification}
+
 December 2019
 
 (For a detailed report please refer to repot.pdf)
