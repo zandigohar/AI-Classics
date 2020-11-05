@@ -1,4 +1,5 @@
-# AI
+# AI codes from simple to advanced
+
 Machine Learning Scripts and Reports:
 
 I have uploaded some course projects done with aritificial intelligence here. (Fall 2019) 
