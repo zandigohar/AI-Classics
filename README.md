@@ -1,5 +1,5 @@
 # AI
-Machine Learning Scripts and Rreports:
+Machine Learning Scripts and Reports:
 
 I have uploaded some course projects done with aritificial intelligence here. (Fall 2019) 
 
