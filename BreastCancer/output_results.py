@@ -1,0 +1,41 @@
+Accuracy of Nearest Neighbors classifier: 93.859649 %
+Accuracy of Linear SVM classifier: 94.736842 %
+Accuracy of Gaussian Process classifier: 96.491228 %
+Accuracy of Decision Tree classifier: 94.736842 %
+Accuracy of Random Forest classifier: 95.614035 %
+Accuracy of Neural Net classifier: 92.982456 %
+Accuracy of AdaBoost classifier: 96.491228 %
+Accuracy of Naive Bayes classifier: 96.491228 %
+Accuracy of QDA classifier: 97.368421 %
+____________________________________________________________
+Feature ranking:
+1. fractal_dimension_se feature 27 (0.123613)
+2. fractal_dimension_worst feature 20 (0.102393)
+3. compactness_se feature 23 (0.090718)
+4. concavity_se feature 22 (0.073362)
+5. concavity_mean feature 7 (0.069074)
+6. concave points_worst feature 0 (0.057682)
+7. area_worst feature 2 (0.057616)
+8. perimeter_mean feature 6 (0.055987)
+9. perimeter_worst feature 3 (0.052329)
+10. symmetry_se feature 26 (0.042248)
+11. fractal_dimension_mean feature 25 (0.027331)
+12. concave points_se feature 21 (0.024081)
+13. radius_worst feature 1 (0.023992)
+14. area_se feature 13 (0.023794)
+15. texture_mean feature 12 (0.021898)
+16. symmetry_mean feature 24 (0.019354)
+17. compactness_worst feature 10 (0.017798)
+18. radius_mean feature 5 (0.017481)
+19. smoothness_se feature 28 (0.014939)
+20. concave points_mean feature 4 (0.011544)
+21. texture_se feature 29 (0.010375)
+22. compactness_mean feature 17 (0.009089)
+23. radius_se feature 16 (0.008688)
+24. smoothness_worst feature 15 (0.007596)
+25. area_mean feature 8 (0.007226)
+26. concavity_worst feature 9 (0.006757)
+27. symmetry_worst feature 18 (0.006067)
+28. smoothness_mean feature 19 (0.005820)
+29. perimeter_se feature 14 (0.005708)
+30. texture_worst feature 11 (0.005441)
