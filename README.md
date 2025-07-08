@@ -9,6 +9,13 @@ I have uploaded some course projects done with aritificial intelligence here, in
   markvo models (MM) 
   hidden morkov models (HMM).
 
+  <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+
 The codes are all  written in Python. 
 
 You may need to install some packages to run the code including 'sklearn' and 'pomegranate'.
