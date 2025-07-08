@@ -2,19 +2,14 @@
 
 Machine Learning Scripts and Reports:
 
-I have uploaded some course projects done with aritificial intelligence here, including: 
+I have uploaded some course projects done with artificial intelligence here, including: 
 
-  Handwritten digit classification
-  breast cancer prediction
-  markvo models (MM) 
-  hidden morkov models (HMM).
-
-  <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+<ul>
+  <li>Breast Cancer Prediction</li>
+  <li>Markvo Models (MM) </li>
+  <li>Hidden Morkov Models (HMM)</li>
+  <li>Handwritten Digit Classification</li>
 </ul>  
-
 
 The codes are all  written in Python. 
 
